@@ -281,7 +281,7 @@ const style = StyleSheet.create({
   header: {
     flexDirection: "row",
     justifyContent: "space-between",
-    marginTop: 20,
+    
     paddingHorizontal: 20,
   },
   inputText: {
